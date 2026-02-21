@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://delawaremedbilling.com/sitemap.xml
